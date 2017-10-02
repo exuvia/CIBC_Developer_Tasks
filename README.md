@@ -1,5 +1,7 @@
 # Solutions to  CIBC_Developer_Tasks
-This repository contains my solutions to Tasks 1-3 and Bonus tasks 1 -2. 
+This repository contains my solutions to Tasks 1-3 and Bonus tasks 1-2.
+
+The solution to Task 2 was written in C++ and is placed in `C++` folder of this repository. The solution to Task 3 and Bonus tasks 1-2 ere written in Python and are placed in folder `Python`. Data files for Task 3 and Bonus Task 2 are also placed in folder `Python` because they were only used for thoes two tasks.
 
 ## Required Task 1
 _Goal: Demonstrate your ability to work with common collaboration tools for software development._
